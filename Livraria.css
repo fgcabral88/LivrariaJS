@@ -1,0 +1,8 @@
+body{
+    font-family: arial;
+}
+
+err{
+    color: red;
+    font-weight: bold;
+}
